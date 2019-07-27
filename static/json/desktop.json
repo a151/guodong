@@ -1,0 +1,82 @@
+{
+  "ret": true,
+  "data": {
+    "deskTopIcons": [{
+        "id": "0002",
+        "title": "项目",
+        "img": "http://t.xinhaozy.com/static/default/win10/images/project.png",
+        "order": "2",
+        "appUrl": "Projects"
+      },{
+        "id": "0003",
+        "title": "任务",
+        "img": "http://t.xinhaozy.com/static/default/win10/images/task.png",
+        "order": "3",
+        "appUrl": "Tasks"
+      },{
+        "id": "0004",
+        "title": "文件管理",
+        "img": "http://t.xinhaozy.com/static/default/win10/images/file.png",
+        "order": "4",
+        "appUrl": "Files"
+      },{
+        "id": "0005",
+        "title": "通讯录",
+        "img": "http://t.xinhaozy.com/static/default/win10/images/contact.png",
+        "order": "5",
+        "appUrl": "Contact"
+      }],
+    "startIcons": {
+      "leftIcons": [{
+          "id": "0001",
+          "title": "Administrator",
+          "img": "https://www.9366333.cn/res/img/icon/admin.ico",
+          "order": "1",
+          "appUrl": "/setting"
+        },{
+          "id": "0002",
+          "title": "MyPC",
+          "img": "https://www.9366333.cn/res/img/icon/pc.ico",
+          "order": "2",
+          "appUrl": "/project-list"
+        },{
+          "id": "0003",
+          "title": "NetWork",
+          "img": "https://www.9366333.cn/res/img/icon/network.ico",
+          "order": "3",
+          "appUrl": "/tasklist"
+        }],
+      "rightIcons": [{
+        "id": "0001",
+          "title": "Internet Explorer",
+          "img": "https://www.9366333.cn/res/img/icon/Edge.ico",
+          "order": "1",
+          "appUrl": "/setting"
+        },{
+          "id": "0002",
+          "title": "Control Panel",
+          "img": "https://www.9366333.cn/res/img/icon/control.ico",
+          "order": "2",
+          "appUrl": "/project-list"
+        },{
+          "id": "0003",
+          "title": "Control Panel",
+          "img": "https://www.9366333.cn/res/img/icon/OneDrive.ico",
+          "order": "3",
+          "appUrl": "/tasklist"
+        },{
+          "id": "0004",
+          "title": "Synology Video",
+          "img": "https://www.9366333.cn/res/img/icon/v1.png",
+          "order": "3",
+          "appUrl": "/tasklist"
+        },{
+          "id": "0005",
+          "title": "JellyFin Player",
+          "img": "https://www.9366333.cn/res/img/icon/v2.png",
+          "order": "3",
+          "appUrl": "/tasklist"
+        }]
+      }
+  }
+}
